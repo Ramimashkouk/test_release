@@ -1,0 +1,22 @@
+{
+  "name": "@ramimashkouk/test_release",
+  "version": "1.0.0",
+  "description": "The first version ever",
+  "main": "index.py",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramimashkouk/test_release.git"
+  },
+  "keywords": [
+    "No"
+  ],
+  "author": "Rami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramimashkouk/test_release/issues"
+  },
+  "homepage": "https://github.com/Ramimashkouk/test_release#readme"
+}
